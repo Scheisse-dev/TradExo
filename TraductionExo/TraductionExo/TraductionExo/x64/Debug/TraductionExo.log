@@ -1,0 +1,8 @@
+﻿  Languages.cpp
+  Path.cpp
+C:\Users\GAUT2905\Desktop\TraductionExo\TraductionExo\TraductionExo\Path.cpp(24,46): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\GAUT2905\Desktop\TraductionExo\TraductionExo\TraductionExo\Path.cpp(24,46): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  StringUtils.cpp
+  TraductionExo.cpp
+  Generating Code...
+  TraductionExo.vcxproj -> C:\Users\GAUT2905\Desktop\TraductionExo\TraductionExo\x64\Debug\TraductionExo.exe
